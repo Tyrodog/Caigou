@@ -1,4 +1,4 @@
-# vue_lianxi
+# vue_houtai
 
 ## 运用了Vue + Vue-cli + Vue-Router + Vuex + Axios + Less + Element UI + Echarts技术栈
 
